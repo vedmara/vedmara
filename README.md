@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vedmara
-- 👀 I’m interested in Mashine learning.
+- 👀 I like Mashine learning.
 - 🌱 I’m currently learning Python.
 - 
 - 📫 How to reach me vedmara87@gmail.com
